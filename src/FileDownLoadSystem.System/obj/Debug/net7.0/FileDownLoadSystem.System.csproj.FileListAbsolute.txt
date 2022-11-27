@@ -1,0 +1,17 @@
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.System\bin\Debug\net7.0\FileDownLoadSystem.System.deps.json
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.System\bin\Debug\net7.0\FileDownLoadSystem.System.dll
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.System\bin\Debug\net7.0\FileDownLoadSystem.System.pdb
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.System\obj\Debug\net7.0\FileDownLoadSystem.System.csproj.AssemblyReference.cache
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.System\obj\Debug\net7.0\FileDownLoadSystem.System.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.System\obj\Debug\net7.0\FileDownLoadSystem.System.AssemblyInfoInputs.cache
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.System\obj\Debug\net7.0\FileDownLoadSystem.System.AssemblyInfo.cs
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.System\obj\Debug\net7.0\FileDownLoadSystem.System.csproj.CoreCompileInputs.cache
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.System\obj\Debug\net7.0\FileDownLoadSystem.System.dll
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.System\obj\Debug\net7.0\refint\FileDownLoadSystem.System.dll
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.System\obj\Debug\net7.0\FileDownLoadSystem.System.pdb
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.System\obj\Debug\net7.0\ref\FileDownLoadSystem.System.dll
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.System\bin\Debug\net7.0\FileDownLoadSystem.Core.dll
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.System\bin\Debug\net7.0\FileDownLoadSystem.Entity.dll
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.System\bin\Debug\net7.0\FileDownLoadSystem.Core.pdb
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.System\bin\Debug\net7.0\FileDownLoadSystem.Entity.pdb
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.System\obj\Debug\net7.0\FileDownLoadSystem.System.csproj.CopyComplete

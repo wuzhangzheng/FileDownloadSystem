@@ -1,0 +1,12 @@
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.Entity\bin\Debug\net7.0\FileDownLoadSystem.Entity.deps.json
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.Entity\bin\Debug\net7.0\FileDownLoadSystem.Entity.dll
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.Entity\bin\Debug\net7.0\FileDownLoadSystem.Entity.pdb
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.Entity\obj\Debug\net7.0\FileDownLoadSystem.Entity.csproj.AssemblyReference.cache
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.Entity\obj\Debug\net7.0\FileDownLoadSystem.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.Entity\obj\Debug\net7.0\FileDownLoadSystem.Entity.AssemblyInfoInputs.cache
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.Entity\obj\Debug\net7.0\FileDownLoadSystem.Entity.AssemblyInfo.cs
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.Entity\obj\Debug\net7.0\FileDownLoadSystem.Entity.csproj.CoreCompileInputs.cache
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.Entity\obj\Debug\net7.0\FileDownLoadSystem.Entity.dll
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.Entity\obj\Debug\net7.0\refint\FileDownLoadSystem.Entity.dll
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.Entity\obj\Debug\net7.0\FileDownLoadSystem.Entity.pdb
+D:\code\FileDownloadSystem\src\FileDownLoadSystem.Entity\obj\Debug\net7.0\ref\FileDownLoadSystem.Entity.dll
